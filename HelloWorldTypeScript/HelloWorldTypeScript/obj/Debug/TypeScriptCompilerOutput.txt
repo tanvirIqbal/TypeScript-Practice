@@ -1,2 +1,0 @@
-F:\Visual Studio Projects\Visual-Studio-Project\HelloWorldTypeScript\HelloWorldTypeScript\Main.js
-F:\Visual Studio Projects\Visual-Studio-Project\HelloWorldTypeScript\HelloWorldTypeScript\Main.js.map
